@@ -38,7 +38,7 @@ durationpy==0.10
 emoji==2.14.1
 et_xmlfile==2.0.0
 faiss-cpu==1.11.0
-fastapi==0.115.12
+fastapi>=0.95,<0.100
 fastjsonschema==2.21.1
 filelock==3.18.0
 filetype==1.2.0
